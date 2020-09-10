@@ -1,0 +1,19 @@
+Library/
+Temp/
+Build/
+Builds/
+Logs/
+obj/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*TextMesh Pro/
+*TextMesh Pro.meta
+log.txt
+Recordings/
+Assets/Plugins/SimpleMilitary/
+Assets/Plugins/SimpleMilitary.meta
+Assets/Plugins/SimpleApocalypse/
+Assets/Plugins/SimpleApocalypse.meta
