@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e806ee0fcd507d4d8054f597362f43c, type: 3}
+  m_Name: Commando
+  m_EditorClassIdentifier: 
+  m_UnitPrefab: {fileID: 3137169696604668476, guid: 74a7dad1ede883147bf2df4a02556c34,
+    type: 3}
+  m_UseAI: 0
+  m_UnitName: Commando
+  m_Speed: 10
+  m_Health: 10
+  m_AttackDamage: 3
+  m_AttackRange: 0
+  m_MoveUnits: 4
