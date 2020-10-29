@@ -1,4 +1,4 @@
-# Unity interview test project.
+# Unity test project.
 Last tested version: Unity 2019.x
 
 Just open the project in Unity and run Tactics scene. In SO/ folder there are the configurable settings for the game and Units (Scriptable Objects).
