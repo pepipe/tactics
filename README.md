@@ -3,33 +3,6 @@ Last tested version: Unity 2019.x
 
 Just open the project in Unity and run Tactics scene. In SO/ folder there are the configurable settings for the game and Units (Scriptable Objects).
 
-## License
-### Code files
-MIT License
-
-Copyright (c) [2020] [Felipe "pepipe" Cabedo]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-### Plugins folder
-All things from this folder are from Unity Asset Store and some are from paid assets. You'll need to check Unity Asset Store for the license.
-
 ## Overview
 This test was done in 4 days and I had complete freedom for using Components, Asset Store, etc.
 
